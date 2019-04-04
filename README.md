@@ -1,4 +1,4 @@
-### isomiRID:  revision to isomiRID -- the miRNA isomiR identification tool 
+### isomiRID:  customize isomiRID -- the miRNA isomiR identification tool 
 
 #### Linkout
 - [isomiRID github](https://github.com/lfelipedeoliveira/isomiRID)
